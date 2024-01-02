@@ -34,5 +34,3 @@ export default function Navbar() {
         </>
     )
 }
-
-// box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
